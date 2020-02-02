@@ -1,0 +1,63 @@
+H:/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config
+H:/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe
+H:/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.pdb
+H:/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Kurs.resources
+H:/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Properties.Resources.resources
+H:/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.exe
+H:/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.pdb
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.pdb
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csprojAssemblyReference.cache
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Kurs.resources
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Properties.Resources.resources
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.GenerateResource.cache
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.exe
+C:/Флэшка-граната/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.pdb
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csprojAssemblyReference.cache
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Kurs.resources
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Properties.Resources.resources
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.GenerateResource.cache
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.exe
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.pdb
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe
+/home/mozhaaak/Documents/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.pdb
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kurs.resources
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kurs.resources
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kurs.resources
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Kurs.resources
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\готовый\source\версия 2\new kyrs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
